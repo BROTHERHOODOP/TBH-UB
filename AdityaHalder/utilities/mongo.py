@@ -1,4 +1,4 @@
-# Aditya Halder // @AdityaHalder
+# Hell boy// @ITS_HELLL_BOYYY
 from AdityaHalder.utilities import dbb
 
 Rbun = dbb["RBAN"]
@@ -24,7 +24,7 @@ async def kaalub_info(user):
         return kk["reason"]
 
 
-# Aditya Halder // @AdityaHalder
+# Hellboy // @ITS_HELLL_BOYYY
 
 Lbun = dbb["LBAN"]
 
